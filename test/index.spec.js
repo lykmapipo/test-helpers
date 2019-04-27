@@ -1,4 +1,4 @@
-import { expect, sinon, chai, faker } from '../src/index';
+import { expect, sinon, chai, faker, spy } from '../src/index';
 
 describe('test-helpers', () => {
   it('should expose chai', () => {
@@ -20,5 +20,16 @@ describe('test-helpers', () => {
     expect(faker.address).to.exist.and.to.be.an('object');
     expect(faker.internet).to.exist.and.to.be.an('object');
     expect(faker.random).to.exist.and.to.be.an('object');
+  });
+
+  it('should spy', () => {
+    const dialer = { dial: () => {} };
+    const call = number => dialer.dial(number);
+    const dialed = spy(dialer, 'dial');
+
+    call();
+    expect(dialed).to.have.been.calledOnce;
+
+    dialed.restore();
   });
 });

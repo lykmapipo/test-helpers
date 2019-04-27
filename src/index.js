@@ -7,4 +7,7 @@ import chai from 'chai';
 chai.use(sinonChai);
 const { expect, should } = chai;
 
-export { chai, expect, faker, should, sinon };
+/* setup sinon */
+const { fake, mock, spy } = sinon;
+
+export { chai, expect, fake, faker, mock, should, sinon, spy };
