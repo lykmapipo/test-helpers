@@ -17,11 +17,16 @@
   },
   "keywords": [
     "lykmapipo",
-    "test-helpers",
+    "test",
     "specs",
     "unit",
-    "test",
-    "utils"
+    "helpers",
+    "utils",
+    "sinon",
+    "chai",
+    "spy",
+    "mock",
+    "faker"
   ],
   "repository": {
     "type": "git",
