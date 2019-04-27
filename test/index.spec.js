@@ -1,6 +1,10 @@
 import { expect, sinon, chai, faker, spy } from '../src/index';
 
 describe('test-helpers', () => {
+  it('should set test environment', () => {
+    expect(process.env.NODE_ENV).to.exist.and.be.equal('test');
+  });
+
   it('should expose chai', () => {
     expect(chai).to.exist;
     expect(chai.expect).to.exist.and.to.be.a('function');
