@@ -5,6 +5,9 @@ export { default as faker } from '@benmaruchu/faker';
 import chai from 'chai';
 export { default as chai } from 'chai';
 
+/* ensure test environment */
+process.env.NODE_ENV = 'test';
+
 /* setup chai */
 chai.use(sinonChai);
 const { expect, should } = chai;

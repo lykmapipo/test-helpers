@@ -1,3 +1,9 @@
+#### 0.2.0 (2019-04-27)
+
+##### New Features
+
+*  ensure test environment ([fbf11953](https://github.com/lykmapipo/test-helpers/commit/fbf119534eb7cc6837595c12f43e222422dde419))
+
 #### 0.1.0 (2019-04-27)
 
 ##### Chores
