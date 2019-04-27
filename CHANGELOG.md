@@ -2,6 +2,7 @@
 
 ##### Chores
 
+* **changelog:**  generate latest ([b557779f](https://github.com/lykmapipo/test-helpers/commit/b557779ffc3fbd454a4c91303b0bd86535cc1f1e))
 * **package:**
   *  update keywords ([ddd06959](https://github.com/lykmapipo/test-helpers/commit/ddd0695961f959a524f14fd4e498f9610b3f391c))
   *  update keywords ([06a938e4](https://github.com/lykmapipo/test-helpers/commit/06a938e4be53346c2e553a8023da6cf09e5e6382))
