@@ -3,7 +3,7 @@ import pkg from './package.json';
 export default [
   {
     input: 'src/index.js',
-    external: ['lodash'],
+    external: ['chai', '@benmaruchu/faker','lodash', 'sinon', 'sinon-chai'],
     output: [
       {
         file: pkg.main,
