@@ -26,7 +26,11 @@
     "chai",
     "spy",
     "mock",
-    "faker"
+    "faker",
+    "expect",
+    "should",
+    "bdd",
+    "tdd"
   ],
   "repository": {
     "type": "git",
