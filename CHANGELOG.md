@@ -1,3 +1,9 @@
+#### 0.2.1 (2019-04-28)
+
+##### Documentation Changes
+
+*  update usage ([6d10d15e](https://github.com/lykmapipo/test-helpers/commit/6d10d15e40e53786123bbadc42e59cdadd629843))
+
 #### 0.2.0 (2019-04-27)
 
 ##### New Features
