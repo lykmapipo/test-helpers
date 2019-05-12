@@ -1,3 +1,10 @@
+#### 0.2.2 (2019-04-30)
+
+##### Chores
+
+* **.npmrc:**  prevent npm version to commit and tag version ([9db039db](https://github.com/lykmapipo/test-helpers/commit/9db039db81f43a498446334775dfa0a4e3377094))
+* **deps:**  force latest version & audit fix ([f4ec7c22](https://github.com/lykmapipo/test-helpers/commit/f4ec7c226860d9ab2b5d51b9d8c605b009370347))
+
 #### 0.2.1 (2019-04-28)
 
 ##### Documentation Changes
