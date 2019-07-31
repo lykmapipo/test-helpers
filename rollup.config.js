@@ -1,9 +1,10 @@
+import { keys } from 'lodash';
 import pkg from './package.json';
 
 export default [
   {
     input: 'src/index.js',
-    external: ['chai', '@benmaruchu/faker', 'lodash', 'sinon', 'sinon-chai'],
+    external: [...keys(pkg.dependencies), ...keys(pkg.peerDependencies)],
     output: [
       {
         file: pkg.main,
