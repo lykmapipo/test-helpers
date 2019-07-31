@@ -1,3 +1,17 @@
+#### 0.3.0 (2019-07-31)
+
+##### Chores
+
+* **scripts:**  add test coverage ([64081870](https://github.com/lykmapipo/test-helpers/commit/6408187075636a29f35ce0c550f2611f116e2482))
+* **config:**  update rollup script ([a165c147](https://github.com/lykmapipo/test-helpers/commit/a165c1477bd75580d7f9ecc22f7a1bf1dae9e777))
+* **deps:**  add test coverage deps ([126a28cd](https://github.com/lykmapipo/test-helpers/commit/126a28cda04cf655712ed0eaeb575a6be33fadb3))
+* **ci:**  force latest node & add coverage script ([efa0b7bb](https://github.com/lykmapipo/test-helpers/commit/efa0b7bb45cd9117a942cfb08875d3a28052bda2))
+
+##### Documentation Changes
+
+*  add test coverage status badge ([431e03de](https://github.com/lykmapipo/test-helpers/commit/431e03def8499313099b737d0ac1a01c95a9f694))
+*  remove year from license ([efd62184](https://github.com/lykmapipo/test-helpers/commit/efd62184aa308caca7cc007865aa17a07957796e))
+
 #### 0.2.12 (2019-07-26)
 
 ##### Chores
