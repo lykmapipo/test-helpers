@@ -74,6 +74,7 @@
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^6.0.0",
     "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsdoc": "^15.8.0",
     "eslint-plugin-mocha": "^6.0.0",
     "eslint-plugin-prettier": "^3.1.0",
     "generate-changelog": "^1.8.0",
@@ -85,7 +86,7 @@
     "nyc": "^14.1.1",
     "prettier": "^1.18.2",
     "rimraf": "^2.6.3",
-    "rollup": "^1.17.0",
+    "rollup": "^1.19.3",
     "shelljs": "^0.8.3"
   },
   "peerDependencies": {},
@@ -93,7 +94,7 @@
     "@benmaruchu/faker": ">=4.3.0",
     "chai": ">=4.2.0",
     "lodash": ">=4.17.15",
-    "sinon": ">=7.3.2",
+    "sinon": ">=7.4.1",
     "sinon-chai": ">=3.3.0"
   },
   "config": {
