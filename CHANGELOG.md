@@ -1,3 +1,12 @@
+#### 0.3.1 (2019-08-06)
+
+##### Chores
+
+* **deps:**
+  *  force latest version & audit fix ([5e569353](https://github.com/lykmapipo/test-helpers/commit/5e569353003deaddeb929e025196a5ce677843fe))
+  *  add test coverage deps ([11f8482b](https://github.com/lykmapipo/test-helpers/commit/11f8482bd62311652f6e921894d79d5059641c44))
+* **config:**  update eslint config ([fc83f376](https://github.com/lykmapipo/test-helpers/commit/fc83f376eeba3852e8742855b66d0697b621553c))
+
 #### 0.3.0 (2019-07-31)
 
 ##### Chores
