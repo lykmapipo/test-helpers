@@ -11,6 +11,6 @@ chai.use(sinonChai);
 const { expect, should } = chai;
 
 /* setup sinon */
-const { mock, spy } = sinon;
+const { fake, mock, restore, spy, stub } = sinon;
 
-export { chai, expect, faker, mock, should, sinon, spy };
+export { chai, expect, fake, faker, mock, restore, should, sinon, spy, stub };
