@@ -14,14 +14,14 @@ $ npm install --save @lykmapipo/test-helpers
 
 ## Usage
 ```js
-const { mock, spy, expect, faker } = require('@lykmapipo/test-helpers');
+import { mock, spy, expect, faker } from '@lykmapipo/test-helpers';
 
 const spied = spy(faker.internet, 'email');
 
 const email = faker.internet.email();
 expect(email).to.exist;
 
-expect(spied).to.have.been.calledOnce
+expect(spied).to.have.been.calledOnce;
 spied.restore();
 ```
 
