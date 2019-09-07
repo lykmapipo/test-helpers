@@ -1,3 +1,17 @@
+#### 0.4.0 (2019-09-07)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([1f798156](https://github.com/lykmapipo/test-helpers/commit/1f79815613e9e14301eb559dab7ed5b7b049df12))
+
+##### Documentation Changes
+
+*  improve usage docs ([6396d9b9](https://github.com/lykmapipo/test-helpers/commit/6396d9b9ac48313402d4c4da1e8d8d0c5d7548e3))
+
+##### New Features
+
+*  expose sinon shortcuts ([cb45e469](https://github.com/lykmapipo/test-helpers/commit/cb45e4695ee8bf65d309e1119839482cdd14ffe7))
+
 #### 0.3.3 (2019-08-28)
 
 ##### Chores
