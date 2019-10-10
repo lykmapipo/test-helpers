@@ -1,3 +1,9 @@
+#### 0.4.6 (2019-10-10)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([fa36b6f4](https://github.com/lykmapipo/test-helpers/commit/fa36b6f4a00f1857b9831ce4a829a78c31941af1))
+
 #### 0.4.5 (2019-09-27)
 
 ##### Chores
