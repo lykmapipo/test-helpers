@@ -93,7 +93,9 @@
   "dependencies": {
     "@benmaruchu/faker": ">=4.3.0",
     "chai": ">=4.2.0",
+    "chai-nock": ">=1.2.0",
     "lodash": ">=4.17.15",
+    "nock": ">=11.7.0",
     "sinon": ">=7.5.0",
     "sinon-chai": ">=3.3.0"
   },

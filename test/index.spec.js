@@ -1,5 +1,6 @@
 import {
   chai,
+  nock,
   expect,
   faker,
   fake,
@@ -19,6 +20,18 @@ describe('test-helpers', () => {
     expect(chai).to.exist;
     expect(chai.expect).to.exist.and.to.be.a('function');
     expect(chai.should).to.exist.and.to.be.a('function');
+  });
+
+  it('should expose nock', () => {
+    const baseUrl = 'https://127.0.0.1/v1/';
+    expect(nock).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).get).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).post).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).put).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).patch).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).delete).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).options).to.exist.and.to.be.a('function');
+    expect(nock(baseUrl).head).to.exist.and.to.be.a('function');
   });
 
   it('should expose faker', () => {
