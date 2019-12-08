@@ -1,3 +1,13 @@
+#### 0.5.0 (2019-12-08)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([d7fe612c](https://github.com/lykmapipo/test-helpers/commit/d7fe612cb3ef129d7932566744bff9b5b50d96cd))
+
+##### New Features
+
+*  add nock and chai-nock ([9cb4e5ca](https://github.com/lykmapipo/test-helpers/commit/9cb4e5ca5cb1bded892a3f8981f23949e6656996))
+
 #### 0.4.13 (2019-12-06)
 
 ##### Chores
