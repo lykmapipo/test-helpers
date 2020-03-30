@@ -61,7 +61,7 @@ describe('test-helpers', () => {
 
   it('should spy', () => {
     const dialer = { dial: () => {} };
-    const call = number => dialer.dial(number);
+    const call = (number) => dialer.dial(number);
     const dialed = spy(dialer, 'dial');
 
     call();
