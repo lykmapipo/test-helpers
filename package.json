@@ -1,6 +1,6 @@
 {
   "name": "@lykmapipo/test-helpers",
-  "version": "0.5.27",
+  "version": "0.5.28",
   "description": "Sensible test helpers",
   "main": "lib/index.js",
   "module": "es/index.js",
