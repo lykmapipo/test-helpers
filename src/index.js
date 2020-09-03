@@ -3,7 +3,7 @@ import nockChai from 'chai-nock';
 import sinon from 'sinon';
 import nock from 'nock';
 import chai from 'chai';
-import faker from '@benmaruchu/faker';
+import faker from 'faker';
 
 /* ensure test environment */
 process.env.NODE_ENV = 'test';

@@ -95,9 +95,9 @@
   },
   "peerDependencies": {},
   "dependencies": {
-    "@benmaruchu/faker": ">=4.3.0",
     "chai": ">=4.2.0",
     "chai-nock": ">=1.2.1",
+    "faker": ">=5.1.0",
     "lodash": ">=4.17.20",
     "nock": ">=13.0.4",
     "sinon": ">=9.0.3",
