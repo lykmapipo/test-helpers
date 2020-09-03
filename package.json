@@ -1,6 +1,6 @@
 {
   "name": "@lykmapipo/test-helpers",
-  "version": "0.5.32",
+  "version": "0.6.0",
   "description": "Sensible test helpers",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -81,7 +81,7 @@
     "generate-changelog": "^1.8.0",
     "handlebars": "^4.7.6",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.13",
+    "lint-staged": "^10.3.0",
     "lodash.template": "^4.5.0",
     "minimist": "^1.2.5",
     "mocha": "^8.1.3",
