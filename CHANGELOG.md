@@ -1,3 +1,10 @@
+#### 0.6.15 (2021-05-04)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([e67a8af8](https://github.com/lykmapipo/test-helpers/commit/e67a8af8fa0302053c22902cfdf21aff5a296c7f))
+*  enforce latest package structure ([0791e70f](https://github.com/lykmapipo/test-helpers/commit/0791e70f52c0177ce4b1675dbbfce7ab621166d3))
+
 #### 0.6.14 (2021-05-04)
 
 #### 0.6.13 (2021-03-21)
