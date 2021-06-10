@@ -1,3 +1,9 @@
+#### 0.6.18 (2021-06-10)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([2e2e7d31](https://github.com/lykmapipo/test-helpers/commit/2e2e7d311f09825998b93462816a9f7d4d464112))
+
 #### 0.6.17 (2021-06-01)
 
 ##### Chores
