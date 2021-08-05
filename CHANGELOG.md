@@ -1,3 +1,9 @@
+#### 0.6.19 (2021-08-05)
+
+##### Chores
+
+* **deps:**  force latest ([2553d095](https://github.com/lykmapipo/test-helpers/commit/2553d09599b71c2f27d0be71c1867efb5549bfd0))
+
 #### 0.6.18 (2021-06-10)
 
 ##### Chores
