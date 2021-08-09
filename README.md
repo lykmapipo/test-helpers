@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/lykmapipo/test-helpers.svg?branch=master)](https://travis-ci.org/lykmapipo/test-helpers)
 [![Dependencies Status](https://david-dm.org/lykmapipo/test-helpers.svg)](https://david-dm.org/lykmapipo/test-helpers)
 [![Coverage Status](https://coveralls.io/repos/github/lykmapipo/test-helpers/badge.svg?branch=master)](https://coveralls.io/github/lykmapipo/test-helpers?branch=master)
-[![GitHub License](https://img.shields.io/github/license/lykmapipo/test-helpers)](https://github.com/lykmapipo/test-helpers/blob/develop/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/lykmapipo/test-helpers)](https://github.com/lykmapipo/test-helpers/blob/master/LICENSE)
 
 [![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
