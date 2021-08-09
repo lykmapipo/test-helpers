@@ -1,3 +1,15 @@
+#### 0.6.20 (2021-08-09)
+
+##### Chores
+
+* **deps:**  force latest version & audit fix ([4c861651](https://github.com/lykmapipo/test-helpers/commit/4c861651b308968ba79a31be245db30e84a0fb99))
+
+##### Documentation Changes
+
+* **readme:**
+  *  fix license badge ([0d9f9dcc](https://github.com/lykmapipo/test-helpers/commit/0d9f9dccd87cc0b4381e7e3e611ae3073a0946bc))
+  *  add common badges ([ae424c5f](https://github.com/lykmapipo/test-helpers/commit/ae424c5fa2dceb6a6aeee8cd707fb00dadb04182))
+
 #### 0.6.19 (2021-08-05)
 
 ##### Chores
