@@ -1,6 +1,6 @@
 # test-helpers
 
-[![Build Status](https://travis-ci.com/lykmapipo/test-helpers.svg?branch=master)](https://travis-ci.com/lykmapipo/test-helpers)
+[![Build Status](https://app.travis-ci.com/lykmapipo/test-helpers.svg?branch=master)](https://app.travis-ci.com/lykmapipo/test-helpers)
 [![Dependencies Status](https://david-dm.org/lykmapipo/test-helpers.svg)](https://david-dm.org/lykmapipo/test-helpers)
 [![Coverage Status](https://coveralls.io/repos/github/lykmapipo/test-helpers/badge.svg?branch=master)](https://coveralls.io/github/lykmapipo/test-helpers?branch=master)
 [![GitHub License](https://img.shields.io/github/license/lykmapipo/test-helpers)](https://github.com/lykmapipo/test-helpers/blob/master/LICENSE)
